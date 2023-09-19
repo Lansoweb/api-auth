@@ -17,7 +17,7 @@ class ArrayAuthenticatorFactory
         assert(is_array($config));
 
         /** @var string[]|array<string, string> $identities */
-        $identities = $config['api-auth']['identities'] ?? [];
+        $identities = $config['los']['api-auth']['identities'] ?? $config['api-auth']['identities'] ?? [];
 
         return new ArrayAuthenticator($identities);
     }
