@@ -2,27 +2,22 @@
 
 All notable changes to this project will be documented in this file, in reverse chronological order by release.
 
-## 1.3.1 - TBD
+## 1.3.1 - 2023-09-19
 
-### Added
 
-- Nothing.
+-----
 
-### Changed
+### Release Notes for [1.3.1](https://github.com/Lansoweb/api-auth/milestone/9)
 
-- Nothing.
+1.3.x bugfix release (patch)
 
-### Deprecated
+### 1.3.1
 
-- Nothing.
+- Total issues resolved: **0**
+- Total pull requests resolved: **1**
+- Total contributors: **1**
 
-### Removed
-
-- Nothing.
-
-### Fixed
-
-- Nothing.
+ - [5: fix array identities](https://github.com/Lansoweb/api-auth/pull/5) thanks to @Lansoweb
 
 ## 1.3.0 - 2023-09-19
 
