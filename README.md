@@ -1,5 +1,12 @@
 # Api Auth
 
+> [!WARNING]
+> ## Archived
+> This API-authentication middleware is no longer maintained and will receive
+> no further releases. Keep it only for existing installations; use the
+> authentication and authorization facilities of your current framework for
+> new applications.
+
 [![codecov](https://codecov.io/gh/Lansoweb/api-auth/branch/main/graph/badge.svg?token=0IIRZ0GYFN)](https://codecov.io/gh/Lansoweb/api-auth)
 [![GitHub license](https://img.shields.io/github/license/Lansoweb/api-auth)](https://github.com/Lansoweb/api-auth/blob/1.0.x/LICENSE)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Lansoweb/api-auth/PHPUnit%20tests)
